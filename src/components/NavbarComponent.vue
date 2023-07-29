@@ -12,9 +12,9 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
         
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink isActive link="#">Home</NavbarLink>
-          <NavbarLink link="#">About</NavbarLink>
+          <NavbarLink link="#">Tentang</NavbarLink>
           <NavbarLink link="#">Portofolio</NavbarLink>
-          <NavbarLink link="#">Contact</NavbarLink>
+          <NavbarLink link="#">Kontak</NavbarLink>
         </NavbarCollapse>
       </template>
     </Navbar>
